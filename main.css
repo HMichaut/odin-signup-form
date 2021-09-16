@@ -1,0 +1,59 @@
+.navbar {
+  background-color: #eceef1;
+  height: 60px;
+}
+.navbox {
+  background-color: #eceef1;
+  height: 36px;
+  width: 300px;
+  float: right;
+  line-height: 1.5;
+}
+.title {
+  background-color: #eceef1;
+  height: 35px;
+  padding: 20px;
+}
+.content {
+  background-color: #eceef1;
+  height: 782px;
+}
+footer {
+  background-color: #eceef1;
+  height: 59px;
+}
+p {
+  font-family: Helvetica, sans-serif;
+}
+.accountp {
+  font-size : 12px;
+}
+.forgotp {
+  font-size : 12px;
+  color: #0077c5;
+}
+.sign-in-button {
+  float: left;
+  margin-left: 10px;
+  text-align: right;
+  background-color: #0077C5;
+  border-radius: 4px;
+  border: 1px solid #4c4c4c;
+  color: white;
+  padding: 0 20px;
+  font-size: 0.9em;
+  font-weight: normal;
+  height: 34px;
+  font-family: Helvetica, sans-serif;
+}
+.white-lock-img {
+  height: 20px;
+  width: 16px;
+  margin-top: 0;
+  margin-right: 6px;
+  vertical-align: text-top;
+  display: inline-block;
+  background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAxNiAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik04IDBDMTAuNzk1NiAwIDEyLjg5MjkgMi4xODQxNyAxMi45OTYgNS4yNjE1NEwxMyA1LjVWN0gxNEMxNS4xMDQ2IDcgMTYgNy44OTU0MyAxNiA5VjE4QzE2IDE5LjEwNDYgMTUuMTA0NiAyMCAxNCAyMEgyQzAuODk1NDMgMjAgMCAxOS4xMDQ2IDAgMThWOUMwIDcuODk1NDMgMC44OTU0MyA3IDIgN0gzVjUuNUMzIDIuMjk3NjEgNS4xMzI3MiAwIDggMFpNMTQgOUgyVjE4SDE0VjlaTTggMTFDOS4xMDQ1NyAxMSAxMCAxMS44OTU0IDEwIDEzQzEwIDEzLjczOTggOS41OTgyOCAxNC4zODU4IDkuMDAxMDggMTQuNzMxOEw5IDE1LjJDOSAxNS42NDE4IDguNTUyMjggMTYgOCAxNkM3LjQ4NzE2IDE2IDcuMDY0NDkgMTUuNjkxMiA3LjAwNjczIDE1LjI5MzNMNyAxNS4yTDYuOTk5OTMgMTQuNzMyNEM2LjQwMjE3IDE0LjM4NjYgNiAxMy43NDAzIDYgMTNDNiAxMS44OTU0IDYuODk1NDMgMTEgOCAxMVpNOCAyQzYuMzMxNTMgMiA1LjA4ODI2IDMuMjc3NDEgNS4wMDQ1IDUuMjgyNDJMNSA1LjVWN0gxMVY1LjVDMTEgMy4zNzAyOCA5LjcyODA2IDIgOCAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
