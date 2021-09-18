@@ -540,3 +540,120 @@ p {
   width: 318px;
   height: 362px;
 }
+.footerlinkdiv {
+  line-height: 1.5;
+  font-size: 12px;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #505050;
+  text-align: center;
+  margin: 0;
+  outline: none;
+  box-sizing: border-box;
+  padding: 0 0 10px 0;
+  padding-bottom: 0;
+}
+.footerlinklist {
+  line-height: 1.5;
+  font-size: 12px;
+  font-weight: normal;
+  color: #505050;
+  text-align: center;
+  margin: 0;
+  outline: none;
+  box-sizing: border-box;
+  padding: 0;
+  padding-top: 5px;
+  list-style: none;
+  list-style-image: none;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
+}
+.footerlinkline {
+  line-height: 1.5;
+  font-size: 12px;
+  font-weight: normal;
+  color: #505050;
+  list-style: none;
+  list-style-image: none;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
+  margin-left: 0;
+  outline: none;
+  box-sizing: border-box;
+  display: inline;
+  padding: 0;
+  padding-left: 0;
+}
+.footerlinklist li {
+  display: inline-block;
+}
+.sign-up-legal-link {
+  line-height: 1.5;
+  font-size: 12px;
+  font-weight: normal;
+  list-style: none;
+  list-style-image: none;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
+  margin-right: 10px;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  background: transparent;
+  text-decoration: none;
+  color: #0077C5;
+}
+.sign-up-privacy-link {
+  line-height: 1.5;
+  font-size: 12px;
+  font-weight: normal;
+  list-style: none;
+  list-style-image: none;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
+  margin-right: 10px;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  background: transparent;
+  text-decoration: none;
+  color: #0077C5;
+}
+.sign-up-security-link {
+  line-height: 1.5;
+  font-size: 12px;
+  font-weight: normal;
+  list-style: none;
+  list-style-image: none;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  background: transparent;
+  text-decoration: none;
+  color: #0077C5;
+}
+.footerspan {
+  line-height: 1.5;
+  font-size: 12px;
+  font-weight: normal;
+  text-align: center;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
+  color: #505050;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+.footerdiv {
+  line-height: 1.5;
+  font-size: 12px;
+  font-weight: normal;
+  text-align: center;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial sans-serif;
+  color: #505050;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  padding-bottom: 100px;
+  background-color: #eceef1;
+}
